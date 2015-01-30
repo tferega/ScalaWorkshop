@@ -1,2 +1,4 @@
 # ScalaWorkshop
-Codes related to scala workshop Zagreb.
+Code repository related to HRScala workshop in Zagreb.
+
+Link to meetup: http://www.meetup.com/HRScala/
